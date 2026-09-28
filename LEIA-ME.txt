@@ -1,0 +1,27 @@
+SALA 102 — HUB ACADEMY
+
+COMO PUBLICAR
+1. Extraia o ZIP.
+2. Acesse https://app.netlify.com/drop com sua conta.
+3. Arraste a pasta que contém index.html, app.js, style.css, manual-saude.pdf e assets.
+4. Aguarde o endereço de publicação.
+
+Não é necessário instalar dependências ou executar uma compilação.
+
+EDIÇÃO
+index.html: estrutura da experiência.
+style.css: aparência e adaptação ao celular.
+app.js: catálogo (items), desafios (missions), interações e endereço do tour (tourURL).
+manual-saude.pdf: manual enviado para a sala 102.
+assets: imagens extraídas do manual e fotografia da sala 102.
+
+CONTEÚDO
+10 entradas com itens visíveis no tour e 15 entradas de materiais citados no manual.
+O manual enviado é o mesmo documento geral utilizado na sala 101; não é inventário patrimonial.
+As identificações visuais não confirmam marcas, modelos, quantidades ou conteúdo de armários.
+As seis missões abordam preparação, higienização, luvas, organização de materiais, descarte e encerramento.
+
+FUNCIONAMENTO
+O tour depende do serviço Panoee e de internet. Há link para abertura em outra aba caso o iframe seja bloqueado.
+As imagens, a fotografia da sala e o PDF estão incluídos no pacote.
+O progresso reinicia quando a página é recarregada.
